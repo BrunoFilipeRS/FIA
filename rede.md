@@ -68,3 +68,16 @@ In this example:
 - NAS devices provide centralized storage accessible to network users.
 
 This network topology reflects a typical commercial setup with multiple devices, switches, routers, and servers. It can serve as a basis for implementing more complex algorithms and network management strategies in your project.
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+estado inicial : um server qualquer, vamos dizer que está numa rede fibra e assumimos que o seu funcionamento é sempre a 100%, tal como a rede que o acompanha
+
+estado objetivo : os endereços alvos das mensagens enviadas pelo servidor do estado inicial
+
+criar 3 tipos diferentes de prioridade, low normal high
+planear como essa prioridade influencia
+talvez uma maior prioridade pegue banda dos menores
